@@ -107,7 +107,7 @@ class _CandidatePollState extends State<CandidatePoll> {
                                             Text(
                                               candidateResult.candidateTitle,
                                               style: GoogleFonts.prompt(fontSize: 15.0),
-                                            ),Text(' '),
+                                            ),
                                             Text(
                                               candidateResult.candidateName,
                                               style: GoogleFonts.prompt(fontSize: 15.0),
